@@ -1,4 +1,4 @@
-# AdditionalCode
+# Internship Code
 Additional code.
 
-This repository includes additional code that highlights primary languages, skills, and techniques used. 
+This repository includes code worked on throughout my internship. All rights reserved.
